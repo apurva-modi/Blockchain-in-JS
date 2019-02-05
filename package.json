@@ -1,0 +1,19 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "JavaScript Based Simple Blockchain Implementaition ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --watch dev -e js dev/api.js"
+  },
+  "author": "Apurva Modi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9",
+    "sha256": "^0.2.0",
+    "uuid": "^3.3.2"
+  }
+}

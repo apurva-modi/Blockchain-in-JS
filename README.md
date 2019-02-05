@@ -1,2 +1,2 @@
 # Blockchain-in-JS
-Basic Blockchain Coded in JavaScript !!
+Basic Blockchain Coded in JavaScript!!
